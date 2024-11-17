@@ -1,5 +1,5 @@
 {
-    "name": "concept-labs/config",
+    "name": "concept-labs/singleton",
     "description": "(C)oncept-Labs Singleton",
     "keywords": ["php","singleton"],
     "license": "Apache-2.0",
