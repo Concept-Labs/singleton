@@ -1,0 +1,27 @@
+{
+    "name": "concept-labs/config",
+    "description": "(C)oncept-Labs Singleton",
+    "keywords": ["php","singleton"],
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Mtr",
+            "email": "info.concept.labs@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Concept\\Singleton\\": "src/"
+        }
+    },
+    "require-dev": {
+    },
+    "autoload-dev": {
+        "psr-4": {
+        }
+    }
+
+}
