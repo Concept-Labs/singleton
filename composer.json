@@ -22,6 +22,8 @@
     "autoload-dev": {
         "psr-4": {
         }
+    },
+    "extra": {
+        "concept": {}
     }
-
 }
